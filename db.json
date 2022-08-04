@@ -1,0 +1,139 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "Блог"
+		},
+		{
+			"id": 2,
+			"name": "Интересное"
+		},
+		{
+			"id": 3,
+			"name": "Сфера-IT"
+		}
+	],
+
+	"items": [
+		{
+			"id": 1,
+			"categoryId": 1,
+			"name": "Что такое пагинация на сайте и как продвигать такие страницы?",
+			"image": "https://nextype.ru/upload/resize_cache/iblock/337/3sfruqblo38q0n12n86ytm8qi4bqpnv4/800_800_2/Paginatsiya-na-sayte_1080x1080.png",
+			"description": "В нашем блоге на сайте nextype.ru вышла новая статья, в которой мы собрали ссылки на самые полезные статьи и материалы, необходимые при запуске нового сайта. Рассказываем обо всем по порядку: от выбора хостинга перед созданием сайта до выбора стратегии продвижения после запуска.",
+			"url": "https://nextype.ru/blog/internet-marketing/chto-takoe-paginatsiya-na-sayt/",
+			"tags": [
+				{
+					"id": 1,
+					"name": "#некстайп"
+				},
+				{
+					"id": 2,
+					"name": "#веб_студия"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"categoryId": 1,
+			"name": "Как продвигать сайт в нескольких регионах?",
+			"description": "В нашем блоге на сайте nextype.ru вышла новая статья, в которой мы собрали ссылки на самые полезные статьи и материалы, необходимые при запуске нового сайта. Рассказываем обо всем по порядку: от выбора хостинга перед созданием сайта до выбора стратегии продвижения после запуска.",
+			"image": "https://nextype.ru/upload/resize_cache/iblock/252/9c1kzsqoo9wsktxqq0pabchov9tnu7pb/800_800_2/Prodvizhenie-v-regionakh_1080x1080.png",
+			"url": "https://nextype.ru/blog/internet-marketing/chto-takoe-paginatsiya-na-sayt/",
+			"tags": [
+				{
+					"id": 1,
+					"name": "#некстайп"
+				},
+				{
+					"id": 2,
+					"name": "#веб_студия"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"categoryId": 1,
+			"name": "Командная разработка сайтов по Agile",
+			"description": "В нашем блоге на сайте nextype.ru вышла новая статья, в которой мы собрали ссылки на самые полезные статьи и материалы, необходимые при запуске нового сайта. Рассказываем обо всем по порядку: от выбора хостинга перед созданием сайта до выбора стратегии продвижения после запуска.",
+			"image": "https://nextype.ru/upload/resize_cache/iblock/b79/p3mgw4pv4yy2azztv02bube94xcz1cnf/800_800_2/Scrum-i-Kanban-1080x1080.jpg",
+			"url": "https://nextype.ru/blog/zametki-programmista/gibkaya-metodologiya-razrabotk/",
+			"tags": [
+				{
+					"id": 1,
+					"name": "#некстайп"
+				},
+				{
+					"id": 2,
+					"name": "#веб_студия"
+				},
+				{
+					"id": 3,
+					"name": "#интересное"
+				},
+				{
+					"id": 4,
+					"name": "#очень_длинное_название_которое_не_влезет_в_одну_строку"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"categoryId": 1,
+			"name": "Что такое SEO продвижение страницы?",
+			"image": "https://nextype.ru/upload/resize_cache/iblock/337/3sfruqblo38q0n12n86ytm8qi4bqpnv4/800_800_2/Paginatsiya-na-sayte_1080x1080.png",
+			"description": "В нашем блоге на сайте nextype.ru вышла новая статья, в которой мы собрали ссылки на самые полезные статьи и материалы, необходимые при запуске нового сайта. Рассказываем обо всем по порядку: от выбора хостинга перед созданием сайта до выбора стратегии продвижения после запуска.",
+			"url": "https://nextype.ru/blog/internet-marketing/chto-takoe-paginatsiya-na-sayt/",
+			"tags": [
+				{
+					"id": 1,
+					"name": "#некстайп"
+				},
+				{
+					"id": 2,
+					"name": "#веб_студия"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"categoryId": 1,
+			"name": "Какие веб-студии существуют?",
+			"image": "https://nextype.ru/upload/resize_cache/iblock/337/3sfruqblo38q0n12n86ytm8qi4bqpnv4/800_800_2/Paginatsiya-na-sayte_1080x1080.png",
+			"description": "В нашем блоге на сайте nextype.ru вышла новая статья, в которой мы собрали ссылки на самые полезные статьи и материалы, необходимые при запуске нового сайта. Рассказываем обо всем по порядку: от выбора хостинга перед созданием сайта до выбора стратегии продвижения после запуска.",
+			"url": "https://nextype.ru/blog/internet-marketing/chto-takoe-paginatsiya-na-sayt/",
+			"tags": [
+				{
+					"id": 1,
+					"name": "#некстайп"
+				},
+				{
+					"id": 2,
+					"name": "#веб_студия"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"categoryId": 2,
+			"name": "Интересная статья в нашем блоге",
+			"image": "https://nextype.ru/upload/resize_cache/iblock/337/3sfruqblo38q0n12n86ytm8qi4bqpnv4/800_800_2/Paginatsiya-na-sayte_1080x1080.png",
+			"description": "В нашем блоге на сайте nextype.ru вышла новая статья, в которой мы собрали ссылки на самые полезные статьи и материалы, необходимые при запуске нового сайта. Рассказываем обо всем по порядку: от выбора хостинга перед созданием сайта до выбора стратегии продвижения после запуска.",
+			"url": "https://nextype.ru/blog/internet-marketing/chto-takoe-paginatsiya-na-sayt/",
+			"tags": [
+				{
+					"id": 1,
+					"name": "#некстайп"
+				},
+				{
+					"id": 2,
+					"name": "#интересное"
+				},
+				{
+					"id": 3,
+					"name": "#обовсеминеочем"
+				}
+			]
+		}
+	]
+}
